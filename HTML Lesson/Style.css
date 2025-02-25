@@ -6,9 +6,23 @@
     font-size: 120%;
     color: red;
   }
+  .name {
+    background-color:darkblue;
+   font-size: 20px;
+   color: red;
+
+    }
 #myname{
 background-color: aqua;
 color: black;
 padding: 40px;
 text-align: center;
+}
+.Hello{
+  background-color:rgb(17, 255, 0);
+}
+h3{
+   color:rgb(13, 16, 212);
+   font-size: 20px;
+   margin: 20px;
 }
